@@ -1,4 +1,3 @@
 ---
 service:
-prop:
-notset:i am in usa
+  prop: i am in usa
